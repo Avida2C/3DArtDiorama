@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TV_Screen
+  m_Shader: {fileID: -6465566751694194690, guid: 3e6898cf3fe4d2244a8f7bd6bc8d46a2, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_cc045f4d6df14132b975115968aab70a_Texture_1:
+        m_Texture: {fileID: 2800000, guid: d91a51ccfa98def42acc11edfa83af7e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Vector2_c1b99ca4cc174b70bf7c9812d93fe88a: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_d19e88d461e34fc88ccf894d83650ae7: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_e93aa76ec47d4e25a32fb909fe46be52: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []

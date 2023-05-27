@@ -58,7 +58,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Tekken_Screen
-    second: {fileID: 2100000, guid: 26d6b33ae41b3164497f86da8cbf8c41, type: 2}
+    second: {fileID: 2100000, guid: 4b327cc2a33649446a0fb216c7287616, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -68,7 +68,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: tekken_3_title
-    second: {fileID: 2100000, guid: 142ab641e530b3f47aee6607deb1355b, type: 2}
+    second: {fileID: 2100000, guid: c3e33de8612505e498873fdef698e6b6, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule

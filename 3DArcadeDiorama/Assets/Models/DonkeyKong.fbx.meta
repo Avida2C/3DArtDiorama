@@ -13,12 +13,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: DonkeyKong_Screen
-    second: {fileID: 2100000, guid: 2c2278244ad6b6349883c9d94b0b4722, type: 2}
+    second: {fileID: 2100000, guid: f0ec2886926494d4195691dfdcf9f20c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: DonkeyKong_Title
-    second: {fileID: 2100000, guid: 372217d2c1fedfc4bb90cf978c610f34, type: 2}
+    second: {fileID: 2100000, guid: 247927d232be49d439afef18c48aabf2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

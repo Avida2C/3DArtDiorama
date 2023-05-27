@@ -13,7 +13,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Frogger_Screen
-    second: {fileID: 2100000, guid: dd9bdfb744347e64a8d4dcf67a5f1a2a, type: 2}
+    second: {fileID: 2100000, guid: fef6bdcf99690a04eb770186dd14111c, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -58,7 +58,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: frogger_Title
-    second: {fileID: 2100000, guid: 0cd125a210918df45a72430db0c0d7f5, type: 2}
+    second: {fileID: 2100000, guid: 1d436d2378b704b429c8e259fc49c678, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

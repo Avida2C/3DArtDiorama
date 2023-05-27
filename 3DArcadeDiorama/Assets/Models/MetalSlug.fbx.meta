@@ -18,12 +18,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: MetalSlug_Screen
-    second: {fileID: 2100000, guid: edd18592eb43499429a52356e43d1e96, type: 2}
+    second: {fileID: 2100000, guid: 13ce5330c80ac2048a82d92343e555bf, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: MetalSlug_title
-    second: {fileID: 2100000, guid: 3345e0e5bd11c57468e72c91ca194166, type: 2}
+    second: {fileID: 2100000, guid: 10264c6093af3534c98e2d3b1c4a8209, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

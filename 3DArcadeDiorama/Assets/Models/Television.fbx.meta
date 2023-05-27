@@ -13,7 +13,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: TV_Screen
-    second: {fileID: 2100000, guid: 3c2102dccb08d3f4b8fdf463f6e8d597, type: 2}
+    second: {fileID: 2100000, guid: ed266d546a614ef4589f7a836f05d9d5, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule

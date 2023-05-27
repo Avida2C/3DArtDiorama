@@ -18,12 +18,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Mr_Do_GamePlay
-    second: {fileID: 2100000, guid: c6e5c95a34428ac4095bb0afdb82617e, type: 2}
+    second: {fileID: 2100000, guid: 0b14036be85c6d645a1f3d7005cf879d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Mr_Do_Title
-    second: {fileID: 2100000, guid: 5c13b55281e8440489a3eb784b39eb25, type: 2}
+    second: {fileID: 2100000, guid: 75607e2da05bcdf4daf9109fe288e50d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
