@@ -10,7 +10,7 @@ Material:
   m_Name: Frogger_Screen
   m_Shader: {fileID: -6465566751694194690, guid: b7873f91fabdd7b45b61036f8767ed91, type: 3}
   m_ShaderKeywords: 
-  m_LightmapFlags: 4
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -19,7 +19,15 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _NormalFromTexture_20247af76e9e4f578a8f4a638b8bf593_Texture_0:
+        m_Texture: {fileID: 2800000, guid: 9abe6c11d8cea614ea52dd35621d492a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_9e98a28993ed4828a60d45ab361c7a4e_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 9abe6c11d8cea614ea52dd35621d492a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e808d885476d468bbfb6335aa7de817d_Texture_1:
         m_Texture: {fileID: 2800000, guid: 9abe6c11d8cea614ea52dd35621d492a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}

@@ -7,10 +7,10 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Tekken_Title
-  m_Shader: {fileID: -6465566751694194690, guid: 951ea854563dd0a489303193e8fa6651, type: 3}
+  m_Name: Wood
+  m_Shader: {fileID: -6465566751694194690, guid: 0b27f7efd79d21f409aa5d23cf08df2e, type: 3}
   m_ShaderKeywords: 
-  m_LightmapFlags: 2
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -19,8 +19,8 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _SampleTexture2D_954b167726244524ac4b27a719f720ee_Texture_1:
-        m_Texture: {fileID: 2800000, guid: afa9faac24af9b7488364e6da2eaa35a, type: 3}
+    - _SampleTexture2D_27daf6f338634ebd9916252fb4e20f5f_Texture_1:
+        m_Texture: {fileID: 2800000, guid: cde077bde05ccba4590268de143cf177, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:

@@ -8,12 +8,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Can_Metal
-    second: {fileID: 2100000, guid: e6ba978d34958a646b1bc1fdc49998a2, type: 2}
+    second: {fileID: 2100000, guid: 399acb6027a120741928d00c8172640d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: ColaWrapper
-    second: {fileID: 2100000, guid: e2c148ea74a90e845a54153285f4304b, type: 2}
+    second: {fileID: 2100000, guid: 8bd975a09938afd459c459654f025c59, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
