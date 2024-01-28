@@ -1,5 +1,5 @@
 
-# 80s Arcade Diorama (UNITY)
+# 80s Arcade Diorama (UNITY Shader Graphs)
 
 This project features a collection of 3D art models inspired by 1980s arcade furniture, designed for a diorama setting. Each model encapsulates the vibrant and nostalgic essence of the 80s arcade era. Created in MAYA and exported to Unity, these models are perfect for virtual dioramas, game development, or other digital projects seeking an 80s arcade theme.
 ## Features
